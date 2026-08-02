@@ -1,0 +1,21 @@
+{
+  "name": "gitpractical2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdHamzaTumbi/GitPractical2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MdHamzaTumbi/GitPractical2/issues"
+  },
+  "homepage": "https://github.com/MdHamzaTumbi/GitPractical2#readme"
+}
